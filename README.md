@@ -18,6 +18,7 @@ Then I connected the circuit as shown in the picture.
 ![circuit for charging](https://user-images.githubusercontent.com/85841913/123853327-01603900-d926-11eb-94d2-b8fbc771bd3d.PNG)
 
 I used the 5V Regulator to regulate the voltage just 5V
+
 and I used Capastors for save the power if the battery has problem or dead to charge again 
 
 # Here is a link to a file for this task that you can run
